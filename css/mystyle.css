@@ -6,7 +6,3 @@
 .nav:hover{ 
     background-color: bisque;
 } 
-/* 3. hover effect for buttons */ 
-.nav a :hover { 
-    background-color: aqua;color: black;transform: translateY( -2px);
-}
