@@ -6,3 +6,16 @@
 .nav:hover{ 
     background-color: bisque;
 } 
+
+@media screen and (max-width: 600px) {
+    .nav {
+        display: block;
+        margin: 5px 0;
+    }
+    
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
